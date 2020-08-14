@@ -7,4 +7,8 @@ set shiftwidth=4
 set expandtab
 
 syntax enable
+"add by installing:
+" mkdir -p ~/.vim/colors
+" cd ~/.vim/colors
+" curl -O https://raw.githubusercontent.com/nanotech/jellybeans.vim/master/colors/jellybeans.vim
 colorscheme jellybeans
